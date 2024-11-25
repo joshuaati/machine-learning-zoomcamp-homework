@@ -8,8 +8,8 @@ numpy = "*"
 pandas = "*"
 scikit-learn = "*"
 flask = "*"
-gunicorn = "*"
 kagglehub = "*"
+gunicorn = "*"
 
 [dev-packages]
 
